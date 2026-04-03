@@ -1,0 +1,212 @@
+[
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/googletest/googlemock",
+  "command": "/usr/bin/c++  -I/home/saad/personal/Raft/third_party/googletest/googlemock/include -I/home/saad/personal/Raft/third_party/googletest/googlemock -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/saad/personal/Raft/third_party/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/saad/personal/Raft/third_party/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/googletest/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/saad/personal/Raft/third_party/googletest/googlemock/include -isystem /home/saad/personal/Raft/third_party/googletest/googlemock -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/saad/personal/Raft/third_party/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/saad/personal/Raft/third_party/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/googletest/googletest",
+  "command": "/usr/bin/c++  -I/home/saad/personal/Raft/third_party/googletest/googletest/include -I/home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/saad/personal/Raft/third_party/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/saad/personal/Raft/third_party/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/googletest/googletest",
+  "command": "/usr/bin/c++  -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/saad/personal/Raft/third_party/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/saad/personal/Raft/third_party/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/saad/personal/Raft/third_party/spdlog/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /home/saad/personal/Raft/third_party/spdlog/src/spdlog.cpp",
+  "file": "/home/saad/personal/Raft/third_party/spdlog/src/spdlog.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/saad/personal/Raft/third_party/spdlog/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /home/saad/personal/Raft/third_party/spdlog/src/stdout_sinks.cpp",
+  "file": "/home/saad/personal/Raft/third_party/spdlog/src/stdout_sinks.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/saad/personal/Raft/third_party/spdlog/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /home/saad/personal/Raft/third_party/spdlog/src/color_sinks.cpp",
+  "file": "/home/saad/personal/Raft/third_party/spdlog/src/color_sinks.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/saad/personal/Raft/third_party/spdlog/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /home/saad/personal/Raft/third_party/spdlog/src/file_sinks.cpp",
+  "file": "/home/saad/personal/Raft/third_party/spdlog/src/file_sinks.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/saad/personal/Raft/third_party/spdlog/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /home/saad/personal/Raft/third_party/spdlog/src/async.cpp",
+  "file": "/home/saad/personal/Raft/third_party/spdlog/src/async.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/saad/personal/Raft/third_party/spdlog/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /home/saad/personal/Raft/third_party/spdlog/src/cfg.cpp",
+  "file": "/home/saad/personal/Raft/third_party/spdlog/src/cfg.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/saad/personal/Raft/third_party/spdlog/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /home/saad/personal/Raft/third_party/spdlog/src/bundled_fmtlib_format.cpp",
+  "file": "/home/saad/personal/Raft/third_party/spdlog/src/bundled_fmtlib_format.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/core/raft_node.cpp.o -c /home/saad/personal/Raft/src/core/raft_node.cpp",
+  "file": "/home/saad/personal/Raft/src/core/raft_node.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/core/raft_log.cpp.o -c /home/saad/personal/Raft/src/core/raft_log.cpp",
+  "file": "/home/saad/personal/Raft/src/core/raft_log.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/core/cluster_membership.cpp.o -c /home/saad/personal/Raft/src/core/cluster_membership.cpp",
+  "file": "/home/saad/personal/Raft/src/core/cluster_membership.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/rpc/tcp_transport.cpp.o -c /home/saad/personal/Raft/src/rpc/tcp_transport.cpp",
+  "file": "/home/saad/personal/Raft/src/rpc/tcp_transport.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/storage/file_log_store.cpp.o -c /home/saad/personal/Raft/src/storage/file_log_store.cpp",
+  "file": "/home/saad/personal/Raft/src/storage/file_log_store.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/storage/file_snapshot_store.cpp.o -c /home/saad/personal/Raft/src/storage/file_snapshot_store.cpp",
+  "file": "/home/saad/personal/Raft/src/storage/file_snapshot_store.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/storage/file_persistent_state.cpp.o -c /home/saad/personal/Raft/src/storage/file_persistent_state.cpp",
+  "file": "/home/saad/personal/Raft/src/storage/file_persistent_state.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/util/logger.cpp.o -c /home/saad/personal/Raft/src/util/logger.cpp",
+  "file": "/home/saad/personal/Raft/src/util/logger.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/util/timer.cpp.o -c /home/saad/personal/Raft/src/util/timer.cpp",
+  "file": "/home/saad/personal/Raft/src/util/timer.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/util/metrics.cpp.o -c /home/saad/personal/Raft/src/util/metrics.cpp",
+  "file": "/home/saad/personal/Raft/src/util/metrics.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/src",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_lib.dir/util/serializer.cpp.o -c /home/saad/personal/Raft/src/util/serializer.cpp",
+  "file": "/home/saad/personal/Raft/src/util/serializer.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_append_entries.cpp.o -c /home/saad/personal/Raft/tests/unit/test_append_entries.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_append_entries.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_commit_advancement.cpp.o -c /home/saad/personal/Raft/tests/unit/test_commit_advancement.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_commit_advancement.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_configuration.cpp.o -c /home/saad/personal/Raft/tests/unit/test_configuration.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_configuration.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_election.cpp.o -c /home/saad/personal/Raft/tests/unit/test_election.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_election.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_log_matching.cpp.o -c /home/saad/personal/Raft/tests/unit/test_log_matching.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_log_matching.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_membership.cpp.o -c /home/saad/personal/Raft/tests/unit/test_membership.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_membership.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_persistence.cpp.o -c /home/saad/personal/Raft/tests/unit/test_persistence.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_persistence.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_snapshot.cpp.o -c /home/saad/personal/Raft/tests/unit/test_snapshot.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_snapshot.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_term_handling.cpp.o -c /home/saad/personal/Raft/tests/unit/test_term_handling.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_term_handling.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/unit",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_unit_tests.dir/test_vote_granting.cpp.o -c /home/saad/personal/Raft/tests/unit/test_vote_granting.cpp",
+  "file": "/home/saad/personal/Raft/tests/unit/test_vote_granting.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_leader_election.cpp.o -c /home/saad/personal/Raft/tests/integration/test_leader_election.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_leader_election.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_log_replication.cpp.o -c /home/saad/personal/Raft/tests/integration/test_log_replication.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_log_replication.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_follower_catchup.cpp.o -c /home/saad/personal/Raft/tests/integration/test_follower_catchup.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_follower_catchup.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_leader_failover.cpp.o -c /home/saad/personal/Raft/tests/integration/test_leader_failover.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_leader_failover.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_stale_term.cpp.o -c /home/saad/personal/Raft/tests/integration/test_stale_term.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_stale_term.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_snapshot_install.cpp.o -c /home/saad/personal/Raft/tests/integration/test_snapshot_install.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_snapshot_install.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_network_partition.cpp.o -c /home/saad/personal/Raft/tests/integration/test_network_partition.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_network_partition.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_restart_recovery.cpp.o -c /home/saad/personal/Raft/tests/integration/test_restart_recovery.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_restart_recovery.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_membership_change.cpp.o -c /home/saad/personal/Raft/tests/integration/test_membership_change.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_membership_change.cpp"
+},
+{
+  "directory": "/home/saad/personal/Raft/build-coverage/tests/integration",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/saad/personal/Raft/include -I/home/saad/personal/Raft/third_party/spdlog/include -I/home/saad/personal/Raft/third_party/json/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest/include -isystem /home/saad/personal/Raft/third_party/googletest/googletest -g -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast --coverage -fprofile-arcs -ftest-coverage -O0 -g -std=c++20 -o CMakeFiles/raft_integration_tests.dir/test_client_interaction.cpp.o -c /home/saad/personal/Raft/tests/integration/test_client_interaction.cpp",
+  "file": "/home/saad/personal/Raft/tests/integration/test_client_interaction.cpp"
+}
+]

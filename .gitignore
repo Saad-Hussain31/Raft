@@ -1,38 +1,31 @@
-# Prerequisites
-*.d
+# Build artifacts
+build/
+out/
+cmake-build-*/
 
-# Compiled Object files
-*.slo
-*.lo
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Coverage
+*.gcno
+*.gcda
+*.gcov
+coverage.info
+coverage_html/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
+*.a
 *.so
 *.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-
-build
-build2
-.vscode
-.cache
+# Logs
+*.log

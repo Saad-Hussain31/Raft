@@ -1,0 +1,5 @@
+if(EXISTS "/home/saad/personal/Raft/build-coverage/tests/integration/raft_integration_tests[1]_tests.cmake")
+  include("/home/saad/personal/Raft/build-coverage/tests/integration/raft_integration_tests[1]_tests.cmake")
+else()
+  add_test(raft_integration_tests_NOT_BUILT raft_integration_tests_NOT_BUILT)
+endif()
